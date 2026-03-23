@@ -10,7 +10,7 @@ export default function App() {
         <div className="badge">⚒️ Site in Progress</div>
 
         <h1 className="title">
-          <span className="accent">ST-Heros</span>
+          <span className="accent">ST Heros</span>
           <br />
           Under Construction
         </h1>
