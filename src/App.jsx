@@ -59,7 +59,7 @@ export default function App() {
             View GitHub
           </a>
 
-          <a className="btn btnSecondary" href="mailto:hello@yourdomain.com">
+          <a className="btn btnSecondary" href="mailto:coreypellizzari1102@gmail.com">
             Contact
           </a>
         </div>
